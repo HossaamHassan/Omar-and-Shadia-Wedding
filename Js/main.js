@@ -17,7 +17,7 @@
 
 
 /* Start countDown */
-let countDownDate = new Date("Feb 12, 2024 18:0:0").getTime();
+let countDownDate = new Date("Jul 25, 2024 18:0:0").getTime();
 // console.log(countDownDate);
 let counter = setInterval(() => {
     // Get Date Now
